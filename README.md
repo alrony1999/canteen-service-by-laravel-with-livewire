@@ -1,1 +1,1 @@
-# canteen-service
+# canteen-service by Laravel with Livewire
